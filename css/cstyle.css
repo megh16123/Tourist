@@ -68,6 +68,7 @@
     padding: 40px;
     background: rgba(1, 105,122, .90);
     border-radius:40px;
+    box-shadow: rgba(0,0,0,0.92) 0 5px 0 4px
 }
 .contactForm h2{
     font-size: 30px;
