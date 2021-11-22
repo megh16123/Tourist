@@ -12,8 +12,8 @@ body{
 }
 .cards{
     display: flex;
-    padding: 20px;
     grid-gap: 40px;
+    padding-top: 0;
 }
 .card{
 background-color: rgba(1,1,1,0.60);
